@@ -1,0 +1,12 @@
+{
+  "name": "personal-website",
+  "id": "6794350",
+  "description": "",
+  "gitUrl": "",
+  "workspaceType": "html5",
+  "dockerBaseImage": "cloud9/ws-html5:2017-08-31T12-15-07Z",
+  "owner": {
+    "name": "sstuars901",
+    "id": "2102672"
+  }
+}
